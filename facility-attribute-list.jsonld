@@ -20,24 +20,7 @@
         "7G"
       ],
       "facilityType": [
-        "https://openactive.io/facility-types#0a5f732d-e806-4e51-ad40-0a7de0239c8c",
-        "https://openactive.io/facility-types#9e143963-8f17-41ab-8915-3828c5a9ddae",
-        "https://openactive.io/facility-types#a7f0a364-a496-4446-aec6-594a629353b3",
-        "https://openactive.io/facility-types#9caeb442-2834-4859-b660-9172ed61ee71",
-        "https://openactive.io/facility-types#4d280e1b-a370-4582-ab4d-442b2eeaf5d4",
-        "https://openactive.io/facility-types#77e3f8fa-c8b3-4e4e-bf1a-ff4b914bb6ec",
-        "https://openactive.io/facility-types#f38d52ca-3c19-4194-b115-1261b3491d44",
-        "https://openactive.io/facility-types#fbb36017-6222-4af2-8186-392e3da0a418",
-        "https://openactive.io/facility-types#f5cb51c4-bf16-47a7-b149-d9463704cb42",
-        "https://openactive.io/facility-types#a6aa92a5-fd6f-42a0-a4c0-788410c68db0",
-        "https://openactive.io/facility-types#fbdc35a8-3dd0-40ee-a7ca-6ff40b3e5f90",
-        "https://openactive.io/facility-types#ec1475e3-6ae4-4187-a492-8f821fbc2faa",
-        "https://openactive.io/facility-types#f2ea7405-6098-4378-b0fe-4e398a659fc4",
-        "https://openactive.io/facility-types#065c8564-144a-4833-b95a-db8550e6ac86",
-        "https://openactive.io/facility-types#22fe3033-b0e4-4717-8455-599180b5bcba",
-        "https://openactive.io/facility-types#55877996-733a-4d9b-ad7d-79f07dcb56f9",
-        "https://openactive.io/facility-types#da9093e5-3290-4eb4-b77f-5008ad00986e",
-        "https://openactive.io/facility-types#ab4a33f2-dc13-4f7f-afa4-a3184dc00eab"
+        "https://openactive.io/facility-types#07e38aa9-4087-424e-95d0-0702d64e1a7a"
       ]
     },
     {
@@ -50,24 +33,7 @@
         "STP"
       ],
       "facilityType": [
-        "https://openactive.io/facility-types#0a5f732d-e806-4e51-ad40-0a7de0239c8c",
-        "https://openactive.io/facility-types#9e143963-8f17-41ab-8915-3828c5a9ddae",
-        "https://openactive.io/facility-types#a7f0a364-a496-4446-aec6-594a629353b3",
-        "https://openactive.io/facility-types#7ae6067a-07f7-4aea-9e1f-eeeea5ae9047",
-        "https://openactive.io/facility-types#9caeb442-2834-4859-b660-9172ed61ee71",
-        "https://openactive.io/facility-types#4d280e1b-a370-4582-ab4d-442b2eeaf5d4",
-        "https://openactive.io/facility-types#77e3f8fa-c8b3-4e4e-bf1a-ff4b914bb6ec",
-        "https://openactive.io/facility-types#f38d52ca-3c19-4194-b115-1261b3491d44",
-        "https://openactive.io/facility-types#fbb36017-6222-4af2-8186-392e3da0a418",
-        "https://openactive.io/facility-types#f5cb51c4-bf16-47a7-b149-d9463704cb42",
-        "https://openactive.io/facility-types#a6aa92a5-fd6f-42a0-a4c0-788410c68db0",
-        "https://openactive.io/facility-types#fbdc35a8-3dd0-40ee-a7ca-6ff40b3e5f90",
-        "https://openactive.io/facility-types#ec1475e3-6ae4-4187-a492-8f821fbc2faa",
-        "https://openactive.io/facility-types#f2ea7405-6098-4378-b0fe-4e398a659fc4",
-        "https://openactive.io/facility-types#065c8564-144a-4833-b95a-db8550e6ac86",
-        "https://openactive.io/facility-types#22fe3033-b0e4-4717-8455-599180b5bcba",
-        "https://openactive.io/facility-types#55877996-733a-4d9b-ad7d-79f07dcb56f9",
-        "https://openactive.io/facility-types#da9093e5-3290-4eb4-b77f-5008ad00986e"
+        "https://openactive.io/facility-types#07e38aa9-4087-424e-95d0-0702d64e1a7a"
       ]
     },
     {
@@ -79,24 +45,7 @@
         "field"
       ],
       "facilityType": [
-        "https://openactive.io/facility-types#0a5f732d-e806-4e51-ad40-0a7de0239c8c",
-        "https://openactive.io/facility-types#9e143963-8f17-41ab-8915-3828c5a9ddae",
-        "https://openactive.io/facility-types#a7f0a364-a496-4446-aec6-594a629353b3",
-        "https://openactive.io/facility-types#7ae6067a-07f7-4aea-9e1f-eeeea5ae9047",
-        "https://openactive.io/facility-types#9caeb442-2834-4859-b660-9172ed61ee71",
-        "https://openactive.io/facility-types#4d280e1b-a370-4582-ab4d-442b2eeaf5d4",
-        "https://openactive.io/facility-types#c0360db0-a817-4bae-9167-40f89b49fc9e",
-        "https://openactive.io/facility-types#77e3f8fa-c8b3-4e4e-bf1a-ff4b914bb6ec",
-        "https://openactive.io/facility-types#8cba755c-5b62-4e79-b9f2-4f0cb5248f74",
-        "https://openactive.io/facility-types#f38d52ca-3c19-4194-b115-1261b3491d44",
-        "https://openactive.io/facility-types#fbb36017-6222-4af2-8186-392e3da0a418",
-        "https://openactive.io/facility-types#f5cb51c4-bf16-47a7-b149-d9463704cb42",
-        "https://openactive.io/facility-types#a6aa92a5-fd6f-42a0-a4c0-788410c68db0",
-        "https://openactive.io/facility-types#ec1475e3-6ae4-4187-a492-8f821fbc2faa",
-        "https://openactive.io/facility-types#f2ea7405-6098-4378-b0fe-4e398a659fc4",
-        "https://openactive.io/facility-types#065c8564-144a-4833-b95a-db8550e6ac86",
-        "https://openactive.io/facility-types#22fe3033-b0e4-4717-8455-599180b5bcba",
-        "https://openactive.io/facility-types#55877996-733a-4d9b-ad7d-79f07dcb56f9"
+        "https://openactive.io/facility-types#07e38aa9-4087-424e-95d0-0702d64e1a7a"
       ]
     },
     {
@@ -104,24 +53,7 @@
       "id": "https://openactive.io/facility-attribute-list#8c4ba90c-2ceb-4a38-aeba-1875da03c227",
       "prefLabel": "Concrete",
       "facilityType": [
-        "https://openactive.io/facility-types#0a5f732d-e806-4e51-ad40-0a7de0239c8c",
-        "https://openactive.io/facility-types#9e143963-8f17-41ab-8915-3828c5a9ddae",
-        "https://openactive.io/facility-types#a7f0a364-a496-4446-aec6-594a629353b3",
-        "https://openactive.io/facility-types#4d280e1b-a370-4582-ab4d-442b2eeaf5d4",
-        "https://openactive.io/facility-types#c0360db0-a817-4bae-9167-40f89b49fc9e",
-        "https://openactive.io/facility-types#e09776e6-f1b4-421b-b667-5c5913cf97aa",
-        "https://openactive.io/facility-types#f38d52ca-3c19-4194-b115-1261b3491d44",
-        "https://openactive.io/facility-types#fbb36017-6222-4af2-8186-392e3da0a418",
-        "https://openactive.io/facility-types#f5cb51c4-bf16-47a7-b149-d9463704cb42",
-        "https://openactive.io/facility-types#a6aa92a5-fd6f-42a0-a4c0-788410c68db0",
-        "https://openactive.io/facility-types#fbdc35a8-3dd0-40ee-a7ca-6ff40b3e5f90",
-        "https://openactive.io/facility-types#ec1475e3-6ae4-4187-a492-8f821fbc2faa",
-        "https://openactive.io/facility-types#f2ea7405-6098-4378-b0fe-4e398a659fc4",
-        "https://openactive.io/facility-types#065c8564-144a-4833-b95a-db8550e6ac86",
-        "https://openactive.io/facility-types#22fe3033-b0e4-4717-8455-599180b5bcba",
-        "https://openactive.io/facility-types#da9093e5-3290-4eb4-b77f-5008ad00986e",
-        "https://openactive.io/facility-types#72ddb2dc-7d75-424e-880a-d90eabe91381",
-        "https://openactive.io/facility-types#77e3f8fa-c8b3-4e4e-bf1a-ff4b914bb6ec"
+        "https://openactive.io/facility-types#07e38aa9-4087-424e-95d0-0702d64e1a7a"
       ]
     },
     {
@@ -132,20 +64,7 @@
         "Hardcourt"
       ],
       "facilityType": [
-        "https://openactive.io/facility-types#c0360db0-a817-4bae-9167-40f89b49fc9e",
-        "https://openactive.io/facility-types#e09776e6-f1b4-421b-b667-5c5913cf97aa",
-        "https://openactive.io/facility-types#f38d52ca-3c19-4194-b115-1261b3491d44",
-        "https://openactive.io/facility-types#fbdc35a8-3dd0-40ee-a7ca-6ff40b3e5f90",
-        "https://openactive.io/facility-types#32225241-1c8c-4ba3-b540-22b710433c18",
-        "https://openactive.io/facility-types#f2ea7405-6098-4378-b0fe-4e398a659fc4",
-        "https://openactive.io/facility-types#065c8564-144a-4833-b95a-db8550e6ac86",
-        "https://openactive.io/facility-types#22fe3033-b0e4-4717-8455-599180b5bcba",
-        "https://openactive.io/facility-types#7d028d22-a6e7-45dd-a4b0-53e9199ef668",
-        "https://openactive.io/facility-types#4d280e1b-a370-4582-ab4d-442b2eeaf5d4",
-        "https://openactive.io/facility-types#77e3f8fa-c8b3-4e4e-bf1a-ff4b914bb6ec",
-        "https://openactive.io/facility-types#4a19873e-118e-43f4-b86e-05acba8fb1de",
-        "https://openactive.io/facility-types#2003612f-c42e-4399-8056-0630d09492d2",
-        "https://openactive.io/facility-types#d354b58e-0c97-47c8-92cb-937b91d56eef"
+        "https://openactive.io/facility-types#9db5681e-700e-4b30-99a5-355885d94db2"
       ]
     },
     {
@@ -158,24 +77,7 @@
         "Tartan"
       ],
       "facilityType": [
-        "https://openactive.io/facility-types#c0360db0-a817-4bae-9167-40f89b49fc9e",
-        "https://openactive.io/facility-types#e09776e6-f1b4-421b-b667-5c5913cf97aa",
-        "https://openactive.io/facility-types#f38d52ca-3c19-4194-b115-1261b3491d44",
-        "https://openactive.io/facility-types#fbdc35a8-3dd0-40ee-a7ca-6ff40b3e5f90",
-        "https://openactive.io/facility-types#32225241-1c8c-4ba3-b540-22b710433c18",
-        "https://openactive.io/facility-types#f2ea7405-6098-4378-b0fe-4e398a659fc4",
-        "https://openactive.io/facility-types#065c8564-144a-4833-b95a-db8550e6ac86",
-        "https://openactive.io/facility-types#22fe3033-b0e4-4717-8455-599180b5bcba",
-        "https://openactive.io/facility-types#4d280e1b-a370-4582-ab4d-442b2eeaf5d4",
-        "https://openactive.io/facility-types#59d547bb-0d3b-40a8-b9c6-6d6f33e1e16b",
-        "https://openactive.io/facility-types#611363c5-8acf-4eeb-aeba-c33e9c70146e",
-        "https://openactive.io/facility-types#77e3f8fa-c8b3-4e4e-bf1a-ff4b914bb6ec",
-        "https://openactive.io/facility-types#7d028d22-a6e7-45dd-a4b0-53e9199ef668",
-        "https://openactive.io/facility-types#c76018ee-50a6-42b3-b0dd-a9efb56ae7ab",
-        "https://openactive.io/facility-types#92808e60-820c-4ee2-89ec-ea8d99d3f528",
-        "https://openactive.io/facility-types#4a19873e-118e-43f4-b86e-05acba8fb1de",
-        "https://openactive.io/facility-types#6ca15167-51da-4d91-a1ae-8a45dc47b0ea",
-        "https://openactive.io/facility-types#2003612f-c42e-4399-8056-0630d09492d2"
+        "https://openactive.io/facility-types#9db5681e-700e-4b30-99a5-355885d94db2"
       ]
     },
     {
@@ -183,24 +85,7 @@
       "id": "https://openactive.io/facility-attribute-list#320b27e9-6241-4e6a-9708-15a83f372ce4",
       "prefLabel": "Tarmac",
       "facilityType": [
-        "https://openactive.io/facility-types#0a5f732d-e806-4e51-ad40-0a7de0239c8c",
-        "https://openactive.io/facility-types#9e143963-8f17-41ab-8915-3828c5a9ddae",
-        "https://openactive.io/facility-types#a7f0a364-a496-4446-aec6-594a629353b3",
-        "https://openactive.io/facility-types#4d280e1b-a370-4582-ab4d-442b2eeaf5d4",
-        "https://openactive.io/facility-types#c0360db0-a817-4bae-9167-40f89b49fc9e",
-        "https://openactive.io/facility-types#e09776e6-f1b4-421b-b667-5c5913cf97aa",
-        "https://openactive.io/facility-types#f38d52ca-3c19-4194-b115-1261b3491d44",
-        "https://openactive.io/facility-types#fbb36017-6222-4af2-8186-392e3da0a418",
-        "https://openactive.io/facility-types#f5cb51c4-bf16-47a7-b149-d9463704cb42",
-        "https://openactive.io/facility-types#a6aa92a5-fd6f-42a0-a4c0-788410c68db0",
-        "https://openactive.io/facility-types#fbdc35a8-3dd0-40ee-a7ca-6ff40b3e5f90",
-        "https://openactive.io/facility-types#ec1475e3-6ae4-4187-a492-8f821fbc2faa",
-        "https://openactive.io/facility-types#f2ea7405-6098-4378-b0fe-4e398a659fc4",
-        "https://openactive.io/facility-types#065c8564-144a-4833-b95a-db8550e6ac86",
-        "https://openactive.io/facility-types#22fe3033-b0e4-4717-8455-599180b5bcba",
-        "https://openactive.io/facility-types#da9093e5-3290-4eb4-b77f-5008ad00986e",
-        "https://openactive.io/facility-types#72ddb2dc-7d75-424e-880a-d90eabe91381",
-        "https://openactive.io/facility-types#77e3f8fa-c8b3-4e4e-bf1a-ff4b914bb6ec"
+        "https://openactive.io/facility-types#07e38aa9-4087-424e-95d0-0702d64e1a7a"
       ]
     },
     {
@@ -213,14 +98,7 @@
         "Real Cinder"
       ],
       "facilityType": [
-        "https://openactive.io/facility-types#4d280e1b-a370-4582-ab4d-442b2eeaf5d4",
-        "https://openactive.io/facility-types#72ddb2dc-7d75-424e-880a-d90eabe91381",
-        "https://openactive.io/facility-types#7e5cb3ee-8c91-4f85-8c97-e335e0013eb3",
-        "https://openactive.io/facility-types#c73c51cd-bf1f-4f96-b16a-c06bcfabd844",
-        "https://openactive.io/facility-types#36a18949-a10f-4161-9ac0-2fb7ae7f250f",
-        "https://openactive.io/facility-types#95092977-5a20-4d6e-b312-8fddabe71544",
-        "https://openactive.io/facility-types#4d280e1b-a370-4582-ab4d-442b2eeaf5d4",
-        "https://openactive.io/facility-types#ae5a96a7-b4a6-417b-b0f6-7e863bae02de"
+        "https://openactive.io/facility-types#52844299-b573-483d-83f5-bee5c0f7376f"
       ]
     },
     {
@@ -233,24 +111,7 @@
         "Shock-pad"
       ],
       "facilityType": [
-        "https://openactive.io/facility-types#0a5f732d-e806-4e51-ad40-0a7de0239c8c",
-        "https://openactive.io/facility-types#9e143963-8f17-41ab-8915-3828c5a9ddae",
-        "https://openactive.io/facility-types#a7f0a364-a496-4446-aec6-594a629353b3",
-        "https://openactive.io/facility-types#9caeb442-2834-4859-b660-9172ed61ee71",
-        "https://openactive.io/facility-types#4d280e1b-a370-4582-ab4d-442b2eeaf5d4",
-        "https://openactive.io/facility-types#c0360db0-a817-4bae-9167-40f89b49fc9e",
-        "https://openactive.io/facility-types#77e3f8fa-c8b3-4e4e-bf1a-ff4b914bb6ec",
-        "https://openactive.io/facility-types#f38d52ca-3c19-4194-b115-1261b3491d44",
-        "https://openactive.io/facility-types#fbb36017-6222-4af2-8186-392e3da0a418",
-        "https://openactive.io/facility-types#f5cb51c4-bf16-47a7-b149-d9463704cb42",
-        "https://openactive.io/facility-types#a6aa92a5-fd6f-42a0-a4c0-788410c68db0",
-        "https://openactive.io/facility-types#fbdc35a8-3dd0-40ee-a7ca-6ff40b3e5f90",
-        "https://openactive.io/facility-types#ec1475e3-6ae4-4187-a492-8f821fbc2faa",
-        "https://openactive.io/facility-types#f2ea7405-6098-4378-b0fe-4e398a659fc4",
-        "https://openactive.io/facility-types#065c8564-144a-4833-b95a-db8550e6ac86",
-        "https://openactive.io/facility-types#22fe3033-b0e4-4717-8455-599180b5bcba",
-        "https://openactive.io/facility-types#da9093e5-3290-4eb4-b77f-5008ad00986e",
-        "https://openactive.io/facility-types#72ddb2dc-7d75-424e-880a-d90eabe91381"
+        "https://openactive.io/facility-types#07e38aa9-4087-424e-95d0-0702d64e1a7a"
       ]
     },
     {
@@ -258,24 +119,7 @@
       "id": "https://openactive.io/facility-attribute-list#516071ff-5a29-4e01-8ab1-0d0cc8464c28",
       "prefLabel": "Carpet",
       "facilityType": [
-        "https://openactive.io/facility-types#0a5f732d-e806-4e51-ad40-0a7de0239c8c",
-        "https://openactive.io/facility-types#4d280e1b-a370-4582-ab4d-442b2eeaf5d4",
-        "https://openactive.io/facility-types#c0360db0-a817-4bae-9167-40f89b49fc9e",
-        "https://openactive.io/facility-types#e09776e6-f1b4-421b-b667-5c5913cf97aa",
-        "https://openactive.io/facility-types#b885f4f6-2242-4d11-9466-065d60402624",
-        "https://openactive.io/facility-types#f38d52ca-3c19-4194-b115-1261b3491d44",
-        "https://openactive.io/facility-types#fbb36017-6222-4af2-8186-392e3da0a418",
-        "https://openactive.io/facility-types#f5cb51c4-bf16-47a7-b149-d9463704cb42",
-        "https://openactive.io/facility-types#a6aa92a5-fd6f-42a0-a4c0-788410c68db0",
-        "https://openactive.io/facility-types#fbdc35a8-3dd0-40ee-a7ca-6ff40b3e5f90",
-        "https://openactive.io/facility-types#ec1475e3-6ae4-4187-a492-8f821fbc2faa",
-        "https://openactive.io/facility-types#f2ea7405-6098-4378-b0fe-4e398a659fc4",
-        "https://openactive.io/facility-types#4a2ba988-045a-45d0-91a8-dbbfb33886b7",
-        "https://openactive.io/facility-types#22fe3033-b0e4-4717-8455-599180b5bcba",
-        "https://openactive.io/facility-types#72ddb2dc-7d75-424e-880a-d90eabe91381",
-        "https://openactive.io/facility-types#77e3f8fa-c8b3-4e4e-bf1a-ff4b914bb6ec",
-        "https://openactive.io/facility-types#8cba755c-5b62-4e79-b9f2-4f0cb5248f74",
-        "https://openactive.io/facility-types#92808e60-820c-4ee2-89ec-ea8d99d3f528"
+        "https://openactive.io/facility-types#07e38aa9-4087-424e-95d0-0702d64e1a7a"
       ]
     },
     {
@@ -283,9 +127,7 @@
       "id": "https://openactive.io/facility-attribute-list#246ced92-836a-46f9-8dac-aa8a80069100",
       "prefLabel": "Lawn",
       "facilityType": [
-        "https://openactive.io/facility-types#b885f4f6-2242-4d11-9466-065d60402624",
-        "https://openactive.io/facility-types#8cba755c-5b62-4e79-b9f2-4f0cb5248f74",
-        "https://openactive.io/facility-types#76f7d884-ca72-4005-a5cb-47cc00649c7c"
+        "https://openactive.io/facility-types#8b0c8a76-5da1-4c37-8314-27000388605b"
       ]
     },
     {
@@ -293,7 +135,7 @@
       "id": "https://openactive.io/facility-attribute-list#ef0f3eaf-1ab9-4484-bafb-d05bb9c76d81",
       "prefLabel": "Crown Green",
       "facilityType": [
-        "https://openactive.io/facility-types#b885f4f6-2242-4d11-9466-065d60402624"
+        "https://openactive.io/facility-types#8b0c8a76-5da1-4c37-8314-27000388605b"
       ]
     },
     {
@@ -301,20 +143,7 @@
       "id": "https://openactive.io/facility-attribute-list#643b32f9-ea7b-485e-9296-e871d4c377de",
       "prefLabel": "Sand",
       "facilityType": [
-        "https://openactive.io/facility-types#1731f73f-ed27-487c-86fc-d76fc2cf7984",
-        "https://openactive.io/facility-types#22fe3033-b0e4-4717-8455-599180b5bcba",
-        "https://openactive.io/facility-types#f38d52ca-3c19-4194-b115-1261b3491d44",
-        "https://openactive.io/facility-types#71b5aaaa-72d7-43c5-82d8-3157021e7cb6",
-        "https://openactive.io/facility-types#dc8b8b2b-0a83-403f-863a-4ec05ebb2410",
-        "https://openactive.io/facility-types#8088e8a5-2b29-4e64-a1b2-857576e36818",
-        "https://openactive.io/facility-types#102dc002-f755-4b79-8484-562c45391d8e",
-        "https://openactive.io/facility-types#73c73572-f86d-4ecf-b0c0-2f442cf15e19",
-        "https://openactive.io/facility-types#645a7c05-799a-4f43-8920-261eb11cf1f1",
-        "https://openactive.io/facility-types#5ce47e82-8db6-4610-b8d1-9ba407a8f2af",
-        "https://openactive.io/facility-types#b2d5619e-56a7-4c40-b691-7f946f6ff5df",
-        "https://openactive.io/facility-types#fc435509-332a-41db-b204-0da4153cf4f6",
-        "https://openactive.io/facility-types#16640aee-2d2e-41c9-92e2-175f605d308f",
-        "https://openactive.io/facility-types#76f7d884-ca72-4005-a5cb-47cc00649c7c"
+        "https://openactive.io/facility-types#6a081b26-e16e-4c1d-a4d6-d65a370bced6"
       ]
     }
   ]
