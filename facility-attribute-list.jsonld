@@ -45,7 +45,8 @@
         "field"
       ],
       "facilityType": [
-        "https://openactive.io/facility-types#07e38aa9-4087-424e-95d0-0702d64e1a7a"
+        "https://openactive.io/facility-types#07e38aa9-4087-424e-95d0-0702d64e1a7a",
+        "https://openactive.io/facility-types#becfafc0-c63f-444c-aed5-a3665f2d172d"
       ]
     },
     {
@@ -64,7 +65,8 @@
         "Hardcourt"
       ],
       "facilityType": [
-        "https://openactive.io/facility-types#9db5681e-700e-4b30-99a5-355885d94db2"
+        "https://openactive.io/facility-types#9db5681e-700e-4b30-99a5-355885d94db2",
+        "https://openactive.io/facility-types#becfafc0-c63f-444c-aed5-a3665f2d172d"
       ]
     },
     {
@@ -136,6 +138,14 @@
       "prefLabel": "Crown Green",
       "facilityType": [
         "https://openactive.io/facility-types#8b0c8a76-5da1-4c37-8314-27000388605b"
+      ]
+    },
+    {
+      "type": "Concept",
+      "id": "https://openactive.io/facility-attribute-list#b7979800-3770-4f28-b6ad-73dc0097df3a",
+      "prefLabel": "Clay",
+      "facilityType": [
+        "https://openactive.io/facility-types#becfafc0-c63f-444c-aed5-a3665f2d172d"
       ]
     },
     {
