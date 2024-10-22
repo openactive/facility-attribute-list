@@ -23,8 +23,8 @@ The example below illustrates an `"beta:facilityAttribute"` property for an `Fac
 ```json
 "beta:facilityAttribute": [
   {
-    "type": "Concept",
-    "id": "https://openactive.io/facility-attribute-list#8c4ba90c-2ceb-4a38-aeba-1875da03c227",
+    "@type": "Concept",
+    "@id": "https://openactive.io/facility-attribute-list#8c4ba90c-2ceb-4a38-aeba-1875da03c227",
     "prefLabel": "Concrete",
     "inScheme": "https://openactive.io/facility-attribute-list"
   }
